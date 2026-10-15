@@ -21,3 +21,4 @@ public class OperatorsPart1{
       System.out.printf("%d * %d%n",num1,num2,multipication);
       System.out.printf("%d / %.2f%n",num1,num2,division);
       System.out.printf("%d / %d%n",num1,num2,remainder);
+	  System.out.printf("------------------------------");
